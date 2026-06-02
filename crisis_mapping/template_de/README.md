@@ -11,7 +11,7 @@ Hinweis: Im Frühjahr 2026 hat sich das OpenDroneMap-Projekt geteilt, seitdem gi
 ## Installation
 1.	Herunterladen der neusten ODM-Version (ODM_Setup_3.X.X.exe): https://github.com/OpenDroneMap/ODM/releases bzw. von ODX: https://github.com/WebODM/ODX/releases
 2.	Ausführen und Installieren von ODM durch Doppelklick auf die Setup Datei (dabei das Standard-Verzeichnis auf C:/ODM/ bzw lassen)
-3. Herunterladen des Vorlageordners: https://github.com/dlr-eoc/ukis-drone-tools/tree/main/crisis_mapping/template_de
+3. Herunterladen und Entpacken des Vorlageordners: [https://github.com/dlr-eoc/ukis-drone-tools/tree/main/crisis_mapping/template_de](https://github.com/dlr-eoc/ukis-drone-tools/raw/refs/heads/main/crisis_mapping/template_de/vorlage_kartierung_KOPIEREN_und_UMBENENNEN.zip)
 
 ## Kartierung
 1.	Kopieren des Vorlageordners („vorlage_kartierung_KOPIEREN_und_UMBENENNEN“) in „Dokumente“ und Umbenennung des Ordners in „kartierung_Ort_Zeit_Einheit“ (siehe Hinweis zur Benennung)

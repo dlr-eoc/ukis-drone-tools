@@ -11,7 +11,7 @@ Note: In spring 2026, the OpenDroneMap project split and since then the two tool
 ## Installation
 1. Download the latest ODM version (ODM_Setup_3.X.X.exe): https://github.com/OpenDroneMap/ODM/releases or ODX: https://github.com/WebODM/ODX/releases
 2. Run and install ODM by double-clicking on the setup file (leave the default directory at C:/ODM/)
-3. Download the template: https://github.com/dlr-eoc/ukis-drone-tools/tree/main/crisis_mapping/template_en
+3. Download and unzip the template: [https://github.com/dlr-eoc/ukis-drone-tools/tree/main/crisis_mapping/template_en](https://github.com/dlr-eoc/ukis-drone-tools/raw/refs/heads/main/crisis_mapping/template_en/template_mapping_COPY_and_RENAME.zip)
 
 ## Mapping
 1. Copy the template folder ("template_mapping_COPY_and_RENAME") to "Documents" and rename the folder to "mapping_location_time_unit" (see note on naming)

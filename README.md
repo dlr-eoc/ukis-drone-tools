@@ -2,10 +2,10 @@
 
 [![GitHub license](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
-In this repository, different resources for the work with drone data in the context of crisis information are collected. The aim of these tools is the preparation for the usage and visualisation of drone data in Environmental and Crisis Information System (UKIS) or other GIS.
+In this repository, different resources for the work with drone data in the context of crisis information are collected. The aim of these tools is the preparation for the usage and visualisation of drone data in an Environmental and Crisis Information System (UKIS) or other GIS.
 
 ## Templates for fast crisis mapping
-The folder *[crisis_mapping](/crisis_mapping)* contains templates for fast crisis mapping with [OpenDroneMap](https://github.com/OpenDroneMap). The result of the crisis mapping process is an orthophoto in [COG](https://cogeo.org/) format for the display and usage in web-based information systems. The templates are available in English and German. They were created during the [ADRET project](https://www.dlr.de/en/eoc/research-transfer/projects-missions/adret).
+The folder *[crisis_mapping](/crisis_mapping)* contains templates and instructions for fast crisis mapping with [OpenDroneMap](https://github.com/OpenDroneMap). The result of the crisis mapping process is an orthophoto in [COG](https://cogeo.org/) format for the display and usage in web-based information systems. The templates are available in English and German. They were created during the [ADRET project](https://www.dlr.de/en/eoc/research-transfer/projects-missions/adret).
 
 
 ## Contributing
