@@ -1,4 +1,4 @@
-# [![UKIS](https://raw.githubusercontent.com/dlr-eoc/ukis-pysat/master/docs/ukis-logo.png)](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5413/10560_read-21914/) UKIS Drone Tools
+# [![UKIS](ukis-logo.png)](https://www.dlr.de/en/eoc/about-us/german-remote-sensing-data-center/geo-risks-and-civil-security/information-systems-and-geomatics/ukis) UKIS Drone Tools
 
 [![GitHub license](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
